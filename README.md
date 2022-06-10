@@ -14,13 +14,13 @@ Contact's informations are: Name    Surname     Birth_Date    Passport_Number   
 
 User will be able to insert commands, used to organize contact information with the program.
 After inserting command's number or name, the following actions will be executed:
-[1] Add a new Contact.
-[2] Show all contacts.
-[3] Search for contact.
-[4] Edit a Contact.
-[5] Delete a Contact.
-[/help] Show all commands.
-[/exit] Save and exit the program.
+<br>[1] Add a new Contact.</br>
+<br>[2] Show all contacts.</br>
+<br>[3] Search for contact.</br>
+<br>[4] Edit a Contact.</br>
+<br>[5] Delete a Contact.</br>
+<br>[/help] Show all commands.</br>
+<br>[/exit] Save and exit the program.</br>
 
 
 The first token of the file must be a number, it will show how many contacts are written in the file data.
