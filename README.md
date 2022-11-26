@@ -31,4 +31,3 @@ Before deleting file content, program will ask the User to choose: Continue by d
 <br></br>
 
 
-Hope you will appreciate the program, it's not the best and not usable I know, but at least you can do something in it :)
